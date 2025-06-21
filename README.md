@@ -2,7 +2,7 @@
 <h3 align="center">Informatics Engineering Student | Web Developer | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AryaForGH&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://github.com/AryaForGH/profile.jpeg" width="150" style="border-radius: 50%" alt="Foto Arya" />
 </p>
 
 ---
