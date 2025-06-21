@@ -2,7 +2,7 @@
 <h3 align="center">Informatics Engineering Student | Web Developer | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://github.com/AryaForGH/profile.jpeg" width="150" style="border-radius: 50%" alt="Foto Arya" />
+  <img src="https://github.com/AryaForGH/AryaForGH/blob/main/profile.jpeg?raw=true" width="300" alt="My" />
 </p>
 
 ---
@@ -39,6 +39,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaForGH&theme=tokyonight" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaForGH&layout=compact&theme=tokyonight" width="49%" />
 </p>
+
+---
+
+### 🚀 Highlight Projects
+
+- 💬 [Sistem Apotek](https://github.com/AryaForGH/zaapotek) — CRUD lengkap dengan sistem transaksi dan dashboard admin
+- 🧠 [Blog React JS](https://github.com/AryaForGH/clireact) — Web React sederhana untuk blog pribadi (fun + responsive)
+- ⚛️ [Game Streamlit](https://github.com/AryaForGH/cfgame) — Game sederhana dengan streamlit menggunakan algoritma Certainty Factor
 
 ---
 
